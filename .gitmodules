@@ -1,3 +1,5 @@
 [submodule "linux"]
 	path = linux
 	url = https://git.kernel.org/pub/scm/linux/kernel/git/stable/linux.git
+	shallow = true
+	branch = v5.7.3
